@@ -25,3 +25,6 @@ pk = int(input())
 print((pk / pb1) * 100)
 print('GOOD')
 print('lalallala')
+
+print('Мое изменение')
+print('Hello Zeleboba')
